@@ -1,0 +1,8 @@
+name: TitaniumHub
+main: me.thechaoscode.titaniumhub.TitaniumHub
+version: 1.0
+commands:
+   hubreload:
+permissions:
+   bunnyhub.admin:
+   
